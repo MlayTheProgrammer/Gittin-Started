@@ -3,16 +3,12 @@ image : ![image](https://user-images.githubusercontent.com/89480036/187801281-b2
 Link1 :https://www.imdb.com/title/tt0126029/
 Link2 :https://shrek.fandom.com/wiki/Shrek_(film)
 
-public class Shrek{
-public static void main(String[] args){
-Shrek shrek = new Shrek();
-System.out.print(shrek.isLove());
-}
-public String isLove(){
+code : 
+
+{
 String text = "";
 String title = "Shrek ";
 int year = 2001;
 text = "The title is " + title + "and the year is " + year;
-return text;
-}
+System.out.print(text);
 }
