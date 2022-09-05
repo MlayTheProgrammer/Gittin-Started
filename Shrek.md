@@ -9,7 +9,7 @@ image:
 [link2](https://shrek.fandom.com/wiki/Shrek_(film))
 
 code : 
-
+'''
 {
 
 String text = "";
@@ -23,3 +23,4 @@ text = "The title is " + title + "and the year is " + year;
 System.out.print(text);
 
 }
+'''
