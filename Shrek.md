@@ -2,7 +2,7 @@ Description : ***(The film was critically acclaimed as an animated film worthy o
 
 ***(The film was extremely successful upon release in 2001 and it helped establish DreamWorks as a prime competitor to Disney and Pixar in the field of feature film animation, particularly in computer animation. Furthermore, Shrek was made the mascot for the company's animation productions.
 
-***(It was the fourth highest grossing movie of the year behind Harry Potter and the Philosopher's Stone, The Lord of the Rings: The Fellowship of the Ring, and Monsters, Inc. It was also the second highest grossing Animated movie of the year (right behind Monsters Inc.).
+***(It was the fourth highest grossing movie of the year behind Harry Potter and the Philosopher's Stone, The Lord of the Rings: The Fellowship of the Ring, and Monsters, Inc. It was also the second highest grossing Animated movie of the year (right behind Monsters Inc.).***)
 image:
 
 ![image](https://user-images.githubusercontent.com/89480036/187801281-b2ba5b76-4b48-42cd-a86b-6b605c0c4213.png)
