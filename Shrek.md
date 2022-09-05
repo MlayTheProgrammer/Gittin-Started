@@ -6,7 +6,7 @@ image:
 
 [link1](https://www.imdb.com/title/tt0126029/)
 
-[https://shrek.fandom.com/wiki/Shrek_(film)](link2)
+[link2](https://shrek.fandom.com/wiki/Shrek_(film))
 
 code : 
 
