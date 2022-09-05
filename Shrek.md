@@ -8,8 +8,12 @@ code :
 
 {
 String text = "";
+
 String title = "Shrek ";
+
 int year = 2001;
+
 text = "The title is " + title + "and the year is " + year;
+
 System.out.print(text);
 }
